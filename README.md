@@ -1,11 +1,6 @@
-<p align="center"><img src="https://i.postimg.cc/D0wt7S1J/Background-Eraser-20260718-120803601.png" alt="Logo Bacteria Mod" width="900"></p>
-
-
-
-
-
-
-
+<div align="center">
+    <img width="400" src="https://i.postimg.cc/D0wt7S1J/Background-Eraser-20260718-120803601.png">
+</div>
 
 # Bacteria Mod
 Bacteria is a mod that adds a bacteria node that, with a lever and a block of your choice on top of it, will eat the entire block from above and to the sides.
