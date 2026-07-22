@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/D0wt7S1J/Background-Eraser-20260718-120803601.png" alt="Logo Bacteria Mod" width="200">
+  <img src="https://i.postimg.cc/D0wt7S1J/Background-Eraser-20260718-120803601.png" alt="Logo Bacteria Mod" width="150">
 </p>
 
 # Bacteria Mod
