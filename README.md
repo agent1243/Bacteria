@@ -1,13 +1,11 @@
-# Bacteria
-Bacteria é um mod que adiciona um node de bcteria que com uma alavanca e um bloco de sua escolha em cima dela, ela come todo esse bloco por cima e aos lados.
+# Bacteria Mod
+Bacteria is a mod that adds a bacteria node that, with a lever and a block of your choice on top of it, will eat the entire block from above and to the sides.
 
 ### Main functions:
-**Compatibility:** It's still being worked on, but I plan to make it compatible with various mods and Skinsdb works perfectly.
-### Commands:
-* `/freecam <player> true` - Turn on free camera mode for that player.
-* `/freecam <player> false` - Turn off free camera mode for that player.
+The **Mesecons** mod is required to add the lever; you need the bacteria node, place it on the ground, and attach a lever to it, For example, place a node of soil on top of the bacteria and press the lever,The bacteria will eat all the soil nodes on top and to the sides and disappear after 4 seconds.
 
-Requires the `privs` privilege. Admins can grant this privilege to any player, who can then use it on themselves or on others.
+### ATTENTION:
+This mod can crash your world if the bacteria needs to eat millions of nodes of your choice. If you want to stop the bacteria from eating nodes, right-click and select `Bacteria Remover`And they will all disappear if you are nearby.
 
 ### Creation:
-A few months ago I was playing several Voxel games when I came across several free camera mods and I loved the idea, but I didn't find any person who made a mod like this for Luanti (formerly Minetest) so I decided to create the mod myself, this mod was entirely made by me with the help of AI :)
+The mod was made with the help of AI But even so, it took more than 5 weeks to be done And all the textures were made by hand; I was heavily inspired by the original BACTERIA mod from older versions of a famous blocky game.
